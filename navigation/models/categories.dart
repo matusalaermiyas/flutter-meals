@@ -1,5 +1,3 @@
-import 'package:flutter/rendering.dart';
-
 class Category {
   final Color color;
   final String id;
